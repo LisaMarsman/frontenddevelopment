@@ -1,5 +1,42 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
 }
 
+body {
+    font-family: HelveticaNeueLTStd-Roman, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.1;
+    background-color: #B823C0;
+    text-decoration: none;
+}
+h1, h2 {
+    font-family: inherit;
+    color: #FFFFFF;
+    font-size: 236px;
+    margin: 40px 0px 0px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: -14px;
+}
+h3 {
+    font-family: inherit;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: justify;
+    text-decoration: none;
+}
+li, p {
+    font-family: inherit;
+    color: #FBADFF;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: justify;
+    list-style-type: none;
+    text-decoration: none;
+}
+p{
+    font-size: 16px;
+}
