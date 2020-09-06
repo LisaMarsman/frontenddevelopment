@@ -58,9 +58,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** -blauwe piste-
 
-**Je focus:** -surface plane-
+**Je focus:** -responsive plane-
 
-**Je opdracht:** -https://www.paradiso.nl/nl/-
+**Je opdracht:** -https://www.paradiso.nl/nl/
+Deze website heb ik gekozen, omdat ik denk dat de breakpoints op de website nog niet optimaal benut zijn.-
 
 **Screenshot(s):**
 
