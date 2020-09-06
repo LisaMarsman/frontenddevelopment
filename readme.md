@@ -65,7 +65,7 @@ Deze website heb ik gekozen, omdat ik denk dat de breakpoints op de website nog 
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/breakdownschets.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot.png)
 
 **Breakdown-schets(en):**
 
