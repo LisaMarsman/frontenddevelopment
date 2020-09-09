@@ -44,9 +44,9 @@ Ik heb ervoor gekozen om de website voor desktop te ontwerpen, omdat mij dat per
 
 **Screenshot(s):**
 
--(images/proces_wk1_1.png)
-(images/proceswk1_2.png)
-(images/proceswk1_3.png)
+-![eerste versie website.][(images/proces_wk1_1.png)]
+![eerste versie website.][(images/proceswk1_2.png)]
+![eerste versie website.][(images/proceswk1_3.png)]
 -
 
 ### Agenda voor meeting
@@ -74,4 +74,4 @@ Deze website heb ik gekozen, omdat ik denk dat de breakpoints op de website nog 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets.svg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets.png)
