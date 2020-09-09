@@ -44,9 +44,9 @@ Ik heb ervoor gekozen om de website voor desktop te ontwerpen, omdat mij dat per
 
 **Screenshot(s):**
 
--![eerste versie website.][(images/proces_wk1_1.png)]
-![eerste versie website.][(images/proceswk1_2.png)]
-![eerste versie website.][(images/proceswk1_3.png)]
+-![eerste versie website.](images/proces_wk1_1.png)
+![eerste versie website.](images/proceswk1_2.png)
+![eerste versie website.](images/proceswk1_3.png)
 -
 
 ### Agenda voor meeting
