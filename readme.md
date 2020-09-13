@@ -30,9 +30,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-Deze week ging het goed met het werken aan de huiswerkopdrachten. Echter ging het wat minder toen mijn kennis tijdens de les op de proef werd gesteld. Ik heb verder gewerkt aan mijn website. Flexbox is toch moeilijker dan gedacht. Ik heb daarom hulp ingeschakeld van een studiegenoot/vriend die mij in week 3 bijles zal geven.-
 
+**Screenshot(s):**
 
+-![tweede versie website.](images/proceswk2_1.png)
+![tweede versie website.](images/proceswk2_2.png)
+-
 
 ## Voortgang 1 (week 3)
 
