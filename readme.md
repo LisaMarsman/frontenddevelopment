@@ -20,15 +20,36 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -screenshot(s) van je eindresultaat-
 
+## Voortgang 5 (week 6)
+
+-Deze week is de navigatie bar eindelijk gelukt om vorm te geven met flexbox met behulp van stackoverflow. De volgende bronnen waren zeer nuttig:
+https://stackoverflow.com/questions/54921884/flexbox-nav-bar-toggle
+https://stackoverflow.com/questions/55225342/flexbox-columns-in-ascending-order
+https://stackoverflow.com/questions/38748263/how-to-combine-flexbox-order-and-nth-childodd-
+
+-![tweede versie website.](images/proceswk2_1.png)
+![tweede versie website.](images/proceswk2_2.png)
+-
+
+## Voortgang 4 (week 5)
+
+-Deze week liep ik erg vast met mijn website. Ik heb met name lang gedaan over de oefeningen met GRID op DLO. Lisa Roelvink en ik zitten een beetje in hetzelfde schuitje qua herkansingen. Daarom hebben wij samen op de HvA gezeten om te werken aan FeD. Dit is een goede keuze geweest, aangezien ik het deze week prive moeilijk had.-
+
+-![tweede versie website.](images/proceswk2_1.png)
+![tweede versie website.](images/proceswk2_2.png)
+-
+
+## Voortgang 3 (week 4)
+
+-Deze week heb ik mij gefocust op mijn eindopdracht, de website van Paradiso nabouwen. Ik ben een eind verder gekomen met het gebruiken van flexbox op de lijsten waarin het programma staat. Verder heb ik mijn kennis in Grid deze week verbreed. Dit ga ik volgende week toepassen op mijn website. De foto's op de voorpagina zijn daar geschikt voor.-
+
+-![tweede versie website.](images/proceswk2_1.png)
+![tweede versie website.](images/proceswk2_2.png)
+-
 
 
-## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
-
-
-## Voortgang 2 (week 5)
+## Voortgang 2 (week 3)
 
 -Deze week ging het goed met het werken aan de huiswerkopdrachten. Echter ging het wat minder toen mijn kennis tijdens de les op de proef werd gesteld. Ik heb verder gewerkt aan mijn website. Flexbox is toch moeilijker dan gedacht. Ik heb daarom hulp ingeschakeld van een studiegenoot/vriend die mij in week 3 bijles zal geven.-
 
@@ -38,7 +59,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![tweede versie website.](images/proceswk2_2.png)
 -
 
-## Voortgang 1 (week 3)
+## Voortgang 1 (week 2)
 
 ### Stand van zaken
 
