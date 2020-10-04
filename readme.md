@@ -35,16 +35,12 @@ https://stackoverflow.com/questions/38748263/how-to-combine-flexbox-order-and-nt
 
 -Deze week liep ik erg vast met mijn website. Ik heb met name lang gedaan over de oefeningen met GRID op DLO. Lisa Roelvink en ik zitten een beetje in hetzelfde schuitje qua herkansingen. Daarom hebben wij samen op de HvA gezeten om te werken aan FeD. Dit is een goede keuze geweest, aangezien ik het deze week prive moeilijk had.-
 
--![tweede versie website.](images/proceswk2_1.png)
-![tweede versie website.](images/proceswk2_2.png)
 -
 
 ## Voortgang 3 (week 4)
 
 -Deze week heb ik mij gefocust op mijn eindopdracht, de website van Paradiso nabouwen. Ik ben een eind verder gekomen met het gebruiken van flexbox op de lijsten waarin het programma staat. Verder heb ik mijn kennis in Grid deze week verbreed. Dit ga ik volgende week toepassen op mijn website. De foto's op de voorpagina zijn daar geschikt voor.-
 
--![tweede versie website.](images/proceswk2_1.png)
-![tweede versie website.](images/proceswk2_2.png)
 -
 
 
