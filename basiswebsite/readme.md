@@ -14,7 +14,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+-Positioneren h1:
+https://stackoverflow.com/questions/14634595/center-h1-over-image-in-a-div
+https://codepen.io/shooft/pen/vYGZqYV
+-
 
 **Screenshot(s):**
 

@@ -29,9 +29,6 @@ header nav ul {
 header nav ul li img {
     height: 1em;
     width: 1em;
-}
-
-header nav ul li img {
     margin-right: 1em;
 }
 
@@ -43,6 +40,21 @@ header nav ul li:nth-of-type(2) {
     margin-right: auto;
 }
 
+body section:first-of-type {
+    position: relative;
+    margin-top: 6em;
+}
+body section h1 {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    margin-top: -.4em;
+    text-align: center;
+}
 body div {
     margin: 0 auto;
     display: grid;
@@ -133,6 +145,32 @@ section ul li:nth-of-type(2) {
 
 a {
     text-decoration: none;
+}
+
+
+button:first-of-type {
+    padding: 0px 22px;
+    color: #FFFFFF;
+    font-family: HelveticaNeueLTStd-Md, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    font-size: 16px;
+    background-color: #606060;
+    height: 4em;
+    width: 8em;
+}
+button:nth-of-type(2), button:nth-of-type(3), button:nth-of-type(4) {
+    padding: 0px 22px;
+    color: #FFFFFF;
+    font-family: HelveticaNeueLTStd-Md, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    font-size: 16px;
+    background-color: #606060;
+    height: 4em;
+    width: 8em;
 }
 
 ul{
