@@ -18,29 +18,39 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+-![tweede versie website.](images/proces_home)
+![tweede versie website.](images/proces_home1)
+![tweede versie website.](images/proces_home2)
+-
 
 ## Voortgang 5 (week 6)
 
 -Deze week is de navigatie bar eindelijk gelukt om vorm te geven met flexbox met behulp van stackoverflow. De volgende bronnen waren zeer nuttig:
 https://stackoverflow.com/questions/54921884/flexbox-nav-bar-toggle
 https://stackoverflow.com/questions/55225342/flexbox-columns-in-ascending-order
-https://stackoverflow.com/questions/38748263/how-to-combine-flexbox-order-and-nth-childodd-
+https://stackoverflow.com/questions/38748263/how-to-combine-flexbox-order-and-nth-childodd
 
--![tweede versie website.](images/proceswk2_1.png)
-![tweede versie website.](images/proceswk2_2.png)
+Ook is het mij gelukt om de afbeeldingen op de homepage vorm te geven met GRID. De volgende bronnen hebben mij hierbij geholpen:
+https://www.youtube.com/watch?v=6yAAV-uP0po
+https://www.youtube.com/watch?v=68O6eOGAGqA
+
+-
+
+-![tweede versie website.](images/proceswk6_1.png)
+![tweede versie website.](images/proceswk6_2.png)
+![tweede versie website.](images/proceswk6_3.png)
 -
 
 ## Voortgang 4 (week 5)
 
 -Deze week liep ik erg vast met mijn website. Ik heb met name lang gedaan over de oefeningen met GRID op DLO. Lisa Roelvink en ik zitten een beetje in hetzelfde schuitje qua herkansingen. Daarom hebben wij samen op de HvA gezeten om te werken aan FeD. Dit is een goede keuze geweest, aangezien ik het deze week prive moeilijk had.-
 
--
 
 ## Voortgang 3 (week 4)
 
 -Deze week heb ik mij gefocust op mijn eindopdracht, de website van Paradiso nabouwen. Ik ben een eind verder gekomen met het gebruiken van flexbox op de lijsten waarin het programma staat. Verder heb ik mijn kennis in Grid deze week verbreed. Dit ga ik volgende week toepassen op mijn website. De foto's op de voorpagina zijn daar geschikt voor.-
 
+-![tweede versie website.](images/proceswk4.png)
 -
 
 
@@ -96,3 +106,4 @@ Deze website heb ik gekozen, omdat ik denk dat de breakpoints op de website nog 
 **Breakdown-schets(en):**
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets.png)
+
