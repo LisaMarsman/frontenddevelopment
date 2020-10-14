@@ -18,7 +18,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+-![tweede versie website.](images/proces_home)
+![tweede versie website.](images/proces_home1)
+![tweede versie website.](images/proces_home2)
+-
 
 ## Voortgang 5 (week 6)
 
