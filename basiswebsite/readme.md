@@ -14,9 +14,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--Positioneren h1:
+-Positioneren h1 over afbeeldingen:
 https://stackoverflow.com/questions/14634595/center-h1-over-image-in-a-div
 https://codepen.io/shooft/pen/vYGZqYV
+
+Filmpjes plaatsen in een html pagina:
+https://support.google.com/youtube/answer/171780?hl=nl
 -
 
 **Screenshot(s):**

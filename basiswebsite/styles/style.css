@@ -247,6 +247,12 @@ section ul li p:last-of-type {
     padding: 20px 0px 40px 90px;
 }
 
+#anna {
+    width: 90%;
+    height: 80vh;
+    object-fit: cover;
+}
+
 .titel {
     font-family: inherit;
     font-size: 66px;
@@ -273,4 +279,16 @@ section ul li p:last-of-type {
     text-align: left;
     color: #000000;
     width: 50%;
+    padding: 5px 0px;
 }
+#section {
+    margin: 0;
+}
+body section iframe {
+    display: grid;
+    grid-template-rows: 2;
+    margin-top: 2em;
+    width: 791px;
+    height: 445px;
+}
+
