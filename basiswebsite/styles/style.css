@@ -156,7 +156,7 @@ button:first-of-type {
     font-style: normal;
     display: block;
     font-size: 16px;
-    background-color: #606060;
+    background-color: #828282;
     height: 4em;
     width: 8em;
 }
@@ -168,10 +168,23 @@ button:nth-of-type(2), button:nth-of-type(3), button:nth-of-type(4) {
     font-style: normal;
     display: block;
     font-size: 16px;
-    background-color: #606060;
+    background-color: #9c9c9c;
     height: 4em;
     width: 8em;
 }
+
+#container {
+    margin: 0;
+   display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.child {
+    margin-left: 2px;
+}
+
 
 ul{
     display: flex;
