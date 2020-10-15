@@ -238,3 +238,39 @@ section ul li p:first-of-type {
 section ul li p:last-of-type {
     margin-top: 5px;
 }
+
+
+
+#body {
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    padding: 20px 0px 40px 90px;
+}
+
+.titel {
+    font-family: inherit;
+    font-size: 66px;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    margin: 0 auto;
+    padding-top: 1.5em;
+}
+.ondertitel {
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+.paragraaf {
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    width: 50%;
+}
