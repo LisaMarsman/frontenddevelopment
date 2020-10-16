@@ -159,7 +159,7 @@ a {
 }
 
 
-button:first-of-type {
+button{
     padding: 0px 22px;
     color: #FFFFFF;
     font-family: HelveticaNeueLTStd-Md, Arial, sans-serif;
@@ -167,35 +167,20 @@ button:first-of-type {
     font-style: normal;
     display: block;
     font-size: 16px;
-    background-color: #7F7F7F;
+    background-color: transparent;
+    border: 3px outset grey;
     height: 4em;
     width: 8em;
+    margin: .2em;
 }
-button:nth-of-type(2), button:nth-of-type(3), button:nth-of-type(4) {
-    padding: 0px 22px;
-    color: #FFFFFF;
-    font-family: HelveticaNeueLTStd-Md, Arial, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    display: block;
-    font-size: 16px;
-    background-color: #7F7F7F;
-    height: 4em;
-    width: 8em;
-}
+
 
 body section:nth-of-type(2) div {
     margin: 0;
-   display: flex;
+    display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
-}
-
-body section:nth-of-type(2) div button {
-    margin-left: 2px;
-    background-color: transparent;
-    border: 3px outset grey;
 }
 
 body section:nth-of-type(2){
@@ -297,3 +282,16 @@ body section iframe {
 .anders {
     background-color: green;
 }
+
+.list{
+     transition: visibility 0s, opacity 0.5s linear;
+}
+.not-visible{
+ display: none;
+}
+
+.visible {
+ display: block;
+}
+
+
