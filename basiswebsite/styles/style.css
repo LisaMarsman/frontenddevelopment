@@ -167,7 +167,7 @@ button:first-of-type {
     font-style: normal;
     display: block;
     font-size: 16px;
-    background-color: #828282;
+    background-color: #7F7F7F;
     height: 4em;
     width: 8em;
 }
@@ -179,7 +179,7 @@ button:nth-of-type(2), button:nth-of-type(3), button:nth-of-type(4) {
     font-style: normal;
     display: block;
     font-size: 16px;
-    background-color: #9c9c9c;
+    background-color: #7F7F7F;
     height: 4em;
     width: 8em;
 }
@@ -194,6 +194,8 @@ body section:nth-of-type(2) div {
 
 body section:nth-of-type(2) div button {
     margin-left: 2px;
+    background-color: transparent;
+    border: 3px outset grey;
 }
 
 body section:nth-of-type(2){
@@ -292,3 +294,6 @@ body section iframe {
     height: 445px;
 }
 
+.anders {
+    background-color: green;
+}

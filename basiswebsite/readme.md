@@ -20,6 +20,10 @@ https://codepen.io/shooft/pen/vYGZqYV
 
 Filmpjes plaatsen in een html pagina:
 https://support.google.com/youtube/answer/171780?hl=nl
+
+Button styling:
+https://home.hccnet.nl/s.f.boukes/html-5/html-510.htm
+
 -
 
 **Screenshot(s):**
