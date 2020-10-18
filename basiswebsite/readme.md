@@ -44,6 +44,12 @@ Ook is het mij gelukt om de afbeeldingen op de homepage vorm te geven met GRID. 
 https://www.youtube.com/watch?v=6yAAV-uP0po
 https://www.youtube.com/watch?v=68O6eOGAGqA
 
+for loop:
+https://www.sitepoint.com/community/t/looping-through-li-elements-in-ul/6049
+https://stackoverflow.com/questions/3331353/transitions-on-the-css-display-property
+https://stackoverflow.com/questions/48696594/what-does-it-mean-to-iterate-until-it-reaches-button-length-in-javascript
+
+
 -
 
 -![tweede versie website.](images/proceswk6_1.png)
