@@ -14,13 +14,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+-Positioneren h1 over afbeeldingen:
+https://stackoverflow.com/questions/14634595/center-h1-over-image-in-a-div
+https://codepen.io/shooft/pen/vYGZqYV
+
+Filmpjes plaatsen in een html pagina:
+https://support.google.com/youtube/answer/171780?hl=nl
+
+Button styling:
+https://home.hccnet.nl/s.f.boukes/html-5/html-510.htm
+
+-
 
 **Screenshot(s):**
 
--![tweede versie website.](images/proces_home)
-![tweede versie website.](images/proces_home1)
-![tweede versie website.](images/proces_home2)
+-![tweede versie website.](images/proces_home.png)
+![tweede versie website.](images/proces_home1.png)
+![tweede versie website.](images/proces_home2.png)
 -
 
 ## Voortgang 5 (week 6)
@@ -33,6 +43,15 @@ https://stackoverflow.com/questions/38748263/how-to-combine-flexbox-order-and-nt
 Ook is het mij gelukt om de afbeeldingen op de homepage vorm te geven met GRID. De volgende bronnen hebben mij hierbij geholpen:
 https://www.youtube.com/watch?v=6yAAV-uP0po
 https://www.youtube.com/watch?v=68O6eOGAGqA
+
+for loop:
+https://www.sitepoint.com/community/t/looping-through-li-elements-in-ul/6049
+https://stackoverflow.com/questions/3331353/transitions-on-the-css-display-property
+https://stackoverflow.com/questions/48696594/what-does-it-mean-to-iterate-until-it-reaches-button-length-in-javascript
+
+button animatie:
+https://codepen.io/shooft/pen/wvGyvRQ
+https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08
 
 -
 
