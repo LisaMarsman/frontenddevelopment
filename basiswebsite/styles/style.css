@@ -1,14 +1,14 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
 }
 
 img {
     max-width: 100%;
 }
-
-
-
 
 header {
     width: 80%;
@@ -44,6 +44,7 @@ body section:first-of-type {
     position: relative;
     margin-top: 6em;
 }
+
 body section h1 {
     position: absolute;
     z-index: 2;
@@ -55,6 +56,7 @@ body section h1 {
     margin-top: -.4em;
     text-align: center;
 }
+
 body div {
     margin: 0 auto;
     display: grid;
@@ -101,6 +103,7 @@ body {
     background-color: #000000;
     text-decoration: none;
 }
+
 h1 {
     font-family: inherit;
     color: #FFFFFF;
@@ -129,7 +132,9 @@ h3 {
     text-align: justify;
     text-decoration: none;
 }
-li, p {
+
+li,
+p {
     font-family: inherit;
     color: #696969;
     font-size: 25px;
@@ -142,12 +147,15 @@ li, p {
 section p {
     font-size: 30px;
 }
+
 section ul li p:first-of-type {
     25px;
 }
-section ul li p:nth-of-type(2){
+
+section ul li p:nth-of-type(2) {
     font-size: 16px;
 }
+
 section ul li:nth-of-type(2) {
     font-size: 16px;
 }
@@ -158,7 +166,7 @@ a {
     color: #FFFFFF;
 }
 
-button{
+button {
     padding: 0px 22px;
     color: #FFFFFF;
     font-family: HelveticaNeueLTStd-Md, Arial, sans-serif;
@@ -173,6 +181,12 @@ button{
     margin: .2em;
 }
 
+button:hover {
+    background-color: grey;
+    transition: 1s;
+    padding: 0px 21px;
+    font-size: 15px;
+}
 
 body section:nth-of-type(2) div {
     margin: 0;
@@ -182,32 +196,33 @@ body section:nth-of-type(2) div {
     align-items: center;
 }
 
-body section:nth-of-type(2){
+body section:nth-of-type(2) {
     margin: 0 auto;
 }
 
-ul{
+ul {
     display: flex;
     flex-wrap: wrap;
 }
 
-body section ul li:nth-child(1){
+body section ul li:nth-child(1) {
     flex: 1 1 80%;
 }
 
-body section ul li:nth-child(2){
+body section ul li:nth-child(2) {
     flex: 1 1 20%;
 }
 
-body section ul li:nth-child(3){
+body section ul li:nth-child(3) {
     flex: 1 1 100%;
 }
 
 /***** CODE  MET COEN ******/
+
 section {
     padding: 20px 40px 0 40px;
     width: calc(100% - 80px);
-    border-bottom: 2px solid rgba(255,255,255,0.2);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
 }
 
 section ul {
@@ -249,6 +264,7 @@ section ul li p:last-of-type {
     margin: 0 auto;
     padding-top: 1.5em;
 }
+
 .ondertitel {
     font-family: inherit;
     font-size: 20px;
@@ -257,6 +273,7 @@ section ul li p:last-of-type {
     text-align: left;
     color: #000000;
 }
+
 .paragraaf {
     font-family: inherit;
     font-size: 18px;
@@ -267,9 +284,11 @@ section ul li p:last-of-type {
     width: 50%;
     padding: 5px 0px;
 }
+
 #section {
     margin: 0;
 }
+
 body section iframe {
     display: grid;
     grid-template-rows: 2;
@@ -283,14 +302,13 @@ body section iframe {
 }
 
 .list {
-     transition: visibility 0s, opacity 0.5s linear;
+    transition: visibility 0s, opacity 0.5s linear;
 }
-.not-visible{
- display: none;
+
+.not-visible {
+    display: none;
 }
 
 .visible {
- display: block;
+    display: block;
 }
-
-
