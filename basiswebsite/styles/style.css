@@ -188,6 +188,24 @@ button:hover {
     font-size: 15px;
 }
 
+.a_z {
+    animation: fadeIn ease 10s;
+}
+
+.list_1 {
+    animation: fadeIn ease 10s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
 body section:nth-of-type(2) div {
     margin: 0;
     display: flex;
@@ -241,7 +259,7 @@ section ul li p:last-of-type {
 }
 
 
-
+/** CSS voor detail.html **/
 #body {
     background-color: #FFFFFF;
     margin: 0 auto;
