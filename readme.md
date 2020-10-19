@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=68O6eOGAGqA
 
 -Deze week heb ik mij gefocust op mijn eindopdracht, de website van Paradiso nabouwen. Ik ben een eind verder gekomen met het gebruiken van flexbox op de lijsten waarin het programma staat. Verder heb ik mijn kennis in Grid deze week verbreed. Dit ga ik volgende week toepassen op mijn website. De foto's op de voorpagina zijn daar geschikt voor.-
 
--![tweede versie website.](./images/proceswk4.png)
+-<img width="1440" alt="proceswk4" src="https://user-images.githubusercontent.com/70412520/96456672-19bc7780-121f-11eb-8128-846b279c17da.png">
 -
 
 
