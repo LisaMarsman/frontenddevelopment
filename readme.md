@@ -51,9 +51,17 @@ https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade
 
 **Screenshot(s):**
 
--![tweede versie website.](images/proces_home.png)
-![tweede versie website.](images/proces_home1.png)
-![tweede versie website.](images/proces_home2.png)
+-<img width="1440" alt="eind_1" src="https://user-images.githubusercontent.com/70412520/96456979-82a3ef80-121f-11eb-8c19-b81c1ba42876.png">
+<img width="1440" alt="eind_2" src="https://user-images.githubusercontent.com/70412520/96457003-8b94c100-121f-11eb-9c33-e0ae879bedbf.png">
+<img width="1440" alt="eind_3" src="https://user-images.githubusercontent.com/70412520/96457057-9c453700-121f-11eb-9e3d-9d4bba1ae92b.png">
+<img width="1440" alt="eind_4" src="https://user-images.githubusercontent.com/70412520/96457072-a23b1800-121f-11eb-800f-2d9ac7fb9a21.png">
+<img width="1440" alt="eind_5" src="https://user-images.githubusercontent.com/70412520/96457099-a6ffcc00-121f-11eb-94f4-2c79e88299c9.png">
+<img width="1440" alt="eind_6" src="https://user-images.githubusercontent.com/70412520/96457112-a9fabc80-121f-11eb-92d8-e0357188a8b3.png">
+<img width="1440" alt="eind_7" src="https://user-images.githubusercontent.com/70412520/96457131-ae26da00-121f-11eb-94ce-f02aac820208.png">
+
+<img width="1440" alt="proces_home" src="https://user-images.githubusercontent.com/70412520/96456899-6c962f00-121f-11eb-8da3-58b4475cb5d2.png">
+<img width="1440" alt="proces_home1" src="https://user-images.githubusercontent.com/70412520/96456894-6a33d500-121f-11eb-9b86-55733a37a6c0.png">
+<img width="1440" alt="proces_home2" src="https://user-images.githubusercontent.com/70412520/96456880-66a04e00-121f-11eb-8a0f-ad2230cdd97e.png">
 -
 
 ## Voortgang 5 (week 6)
@@ -69,9 +77,9 @@ https://www.youtube.com/watch?v=68O6eOGAGqA
 
 -
 
--![tweede versie website.](images/proceswk6_1.png)
-![tweede versie website.](./images/proceswk6_2.png)
-![tweede versie website.](./images/proceswk6_3.png)
+-<img width="1440" alt="proceswk6_1" src="https://user-images.githubusercontent.com/70412520/96456818-4d979d00-121f-11eb-8a4f-26c4f0fa03ab.png">
+<img width="1440" alt="proceswk6_2" src="https://user-images.githubusercontent.com/70412520/96456833-57210500-121f-11eb-951e-f32247687c30.png">
+<img width="1440" alt="proceswk6_3" src="https://user-images.githubusercontent.com/70412520/96456856-6011d680-121f-11eb-82ed-c93f4a4564d7.png">
 -
 
 ## Voortgang 4 (week 5)
